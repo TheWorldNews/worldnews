@@ -4,3 +4,4 @@ slno|title|source|url|hashtags|
 3|LinkedIn is bringing Lynda courses to its news feed and building a messaging bot|recode|http://www.recode.net/2016/9/22/13019278/linkedin-lynda-classes-messaging-bot|#linkedin,#messaging,#bot
 4|Everything You Need to Know About Google Allo's Privacy Backlash|fortune|http://fortune.com/2016/09/22/google-allo-nope/|#gogole,#allo,#messenger|
 5|Everything You Need to Know About Google Allo Privacy Backlash|fortune|http://fortune.com/2016/09/22/google-allo-nope/|#gogole,#allo,#messenger|
+6|How violence in North Carolina could help Donald Trump|economist|http://www.economist.com/blogs/democracyinamerica/2016/09/clashes-charlotte|#donaldtrump,#usprez,#usprezelection|
