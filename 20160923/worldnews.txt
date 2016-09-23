@@ -1,2 +1,3 @@
 slno|title|source|url|hashtags|
 1|IOS 10 review|theverge|http://www.theverge.com/2016/9/22/13010546/apple-ios-10-review-imessage-music-siri-iphone-ipad|#ios,#apple|
+2|LinkedIn is bringing Lynda.com courses to its news feed and building a messaging bot|recode|http://www.recode.net/2016/9/22/13019278/linkedin-lynda-classes-messaging-bot|#linkedin,#messaging,#bot
